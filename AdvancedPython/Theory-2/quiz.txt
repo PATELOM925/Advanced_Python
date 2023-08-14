@@ -1,0 +1,17 @@
+Q1 What does the acronym "AI" stand for ?
+a) Automated Intelligence
+b) Artificial Information
+c) Artificial Intelligence
+d) Advanced Inference
+
+Q2 Which type of learning algorithm enables an AI system to improve its performance by learning from a large dataset without explicit programming ?
+a) Supervised Learning
+b) Reinforcement Learning
+c) Unsupervised Learning
+d) Deep Learning
+
+Q3 What is the purpose of a neural network activation function ?
+a) To determine the number of layers in the network
+b) To connect neurons in different layers
+c) To introduce randomness in the learning process
+d) To introduce non-linearity and allow the network to model complex relationships

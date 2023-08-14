@@ -1,0 +1,6 @@
+Name: Aman
+Feedback: Nice college
+{"name": "Om", "feedback": "Good product , Bt not worth the value"}
+{"name": "Om", "feedback": "Good Product", "Phone Number:": "7383757781"}
+{"name": "Om", "feedback": "Bad product", "Phone Number": " higirgih"}
+{"name": "Krishna", "feedback": "okaish", "Phone Number": 1234567890}

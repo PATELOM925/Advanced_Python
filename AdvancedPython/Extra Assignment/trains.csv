@@ -1,0 +1,6 @@
+Train ID,TrainName,SourceStation,DestinationStation,TotalSeats,fareperseat
+T123,Express 123,City A,City B,200,500
+T456,Superfast 456,City B,City C,150,1200
+T789,Shatabdi 789,City C,City D,100,1400
+T321,Intercity 321,City D,City E,180,200
+T654,Rajdhani 654,City E,City F,250,1500
