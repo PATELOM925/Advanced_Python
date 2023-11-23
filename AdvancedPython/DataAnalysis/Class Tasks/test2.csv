@@ -1,0 +1,21 @@
+Identifier,First Given Name,Family Name,Primary Email,Phone Number,Street Address,City Name,State Abbreviation,Postal Code,Member Level,Start Date of Subscription,End Date of Subscription,Total Amount Spent,Birthdate
+1001,John,Doe,johndoe@example.com,555-555-5555,123 Main St,New York,NY,10001,Gold,15-01-2023,31-12-2023,1250.25,15-05-2003
+1002,,Smith,janesmith@example.com,555-555-5556,456 Oak Ave,Los Angeles,CA,90001,Silver,20-02-2023,30-11-2023,800.5,30-12-1990
+1003,Bob,Johnson,bobj@example.com,555-555-5557,789 Elm Blvd,Chicago,IL,60601,Bronze,25-03-2023,31-10-2023,450.75,25-08-1985
+1004,Alice,Brown,aliceb@example.com,555-555-5558,,Miami,FL,33101,Silver,10-04-2023,31-12-2023,600.25,30-12-1990
+1005,David,Lee,davidl@example.com,555-555-5559,202 Cedar Ln,San Francisco,CA,94101,Platinum,12-05-2023,31-08-2023,,05-11-1978
+1006,Emily,White,,555-555-5560,303 Spruce Rd,Boston,MA,2101,Gold,15-06-2023,31-12-2023,1100.75,20-09-1995
+1007,Michael,Clark,michaelc@example.com,555-555-5561,404 Willow Ave,Dallas,TX,75201,Platinum,20-07-2023,30-11-2023,2200.5,14-02-2000
+1008,Sarah,Turner,saraht@example.com,555-555-5562,505 Birch St,,WA,98101,Silver,25-08-2023,31-10-2023,800.5,20-09-1995
+1009,James,Anderson,jamesa@example.com,555-555-5563,606 Pine Dr,Phoenix,AZ,85001,Bronze,30-09-2023,15-06-2023,400.25,08-03-1992
+1010,Linda,Hall,lindah@example.com,555-555-5564,707 Oak Ln,Houston,,77001,Gold,15-10-2023,31-12-2023,1350.5,27-06-2005
+1011,Robert,Williams,robertw@example.com,555-555-5565,808 Cedar Ave,San Diego,CA,92101,,10-11-2023,31-12-2023,1750.75,03-10-1998
+,Christine,Evans,christinee@example.com,555-555-5566,909 Elm St,Philadelphia,PA,19101,,15-10-2023,31-12-2023,950.75,22-01-1987
+1013,William,Scott,,555-555-5567,101 Oak Rd,Portland,OR,97201,Gold,05-01-2024,31-12-2024,,08-08-2002
+1014,Susan,Miller,susanm@example.com,555-555-5568,202 Pine Ave,San Antonio,,78201,Bronze,10-02-2024,10-02-2024,600.25,19-04-1975
+1015,George,Moore,georgem@example.com,555-555-5569,,,CO,80201,Platinum,20-03-2024,31-12-2024,2400.5,12-11-1993
+1016,Rebecca,,rebeccak@example.com,555-555-5570,404 Cedar Blvd,Minneapolis,MN,55401,Gold,25-04-2024,31-12-2024,1200.75,01-09-1989
+1017,Charles,Baker,charlesc@example.com,555-555-5571,505 Elm Rd,San Jose,CA,95101,Silver,30-05-2024,31-12-2024,850.25,12-11-1993
+1018,Emily,Wright,emilywright@example.com,555-555-5572,606 Spruce St,Phoenix,AZ,,Platinum,15-06-2024,31-12-2024,1800.5,03-06-1979
+1019,Daniel,Harris,danielh@example.com,555-555-5573,707 Willow Ave,Chicago,IL,60601,Bronze,20-07-2024,31-12-2024,950.75,25-02-1996
+1020,Karen,Green,,555-555-5574,808 Oak Ln,Los Angeles,CA,90001,Gold,25-08-2024,31-12-2024,1550.25,14-10-1983
